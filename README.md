@@ -1,2 +1,5 @@
 # http2ipfs
-Access HTTP(s) Resources via IPFS
+
+-> Get HTTP Request
+  -> Catch the Resource(Using [IPFS HTTP Proxy](?))
+    -> Resolve
